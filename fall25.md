@@ -13,4 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 ## Students
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
-
+[TJ Lucht](https://github.com/GoldenEntertainment) - I Like Watching Youtube Videos, I also Like making Games And apps
