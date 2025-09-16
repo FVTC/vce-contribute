@@ -14,3 +14,5 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
 
+[Jeff Fitch](https://github.com/jafitch) - Software development student, father of 3. Love video games, reading and spending time with my family.
+
