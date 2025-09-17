@@ -12,5 +12,5 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
-[Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
+[Kaiden Her](https://github.com/herkaiden) - Student of fox valley tech college. I love video games, and drawings.
 
