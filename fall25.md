@@ -12,5 +12,5 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
-[Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
+[Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading. <br>
 [Jed Engel](https://github.com/Jed-From-Wisconsin) - Enjoys 3D-Modelling and Post-War Alabama Politics
