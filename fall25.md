@@ -14,3 +14,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
 
+[Aleksnadr Bugaevskii](https://github.com/AleksBG44) - My favorite game series is Devil May Cry. I want to try myself in game development. I have a rough idea, but I need to obtain skills in game programming. I want to visit Japan and I'm a bit of a geek about all things Japanese.
