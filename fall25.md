@@ -13,4 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 ## Students
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
-
+[Brianna Durrant](https://github.com/BriN3r) - Web Design student, loves cars, painting, and video games.
