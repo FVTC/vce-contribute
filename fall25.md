@@ -14,3 +14,5 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
 
+[Paul Bushen](https://github/com/ItzPlasmaYT) - Software development student, currently obsessed with Balatro, love making stories and music as well as drawing 
+
