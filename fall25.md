@@ -14,3 +14,6 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
 
+## Students
+
+[Stephen Ramirez](https://github.com/gwrengines3000-cmd) - Software development student, loves comic books, movies, reading and art.
