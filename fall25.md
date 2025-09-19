@@ -12,5 +12,5 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
-[Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
+[Sam Olson](https://github.com/SJOlson7) - Web Design student, loves live music, collecting vinyl, and playing instruments.
 
