@@ -13,4 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 ## Students
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
-
+[Riley Temme](https://github.com/RileyTemme) - Web Development and Design Student, enjoy video games, working on cars, snowboarding, and coding.
