@@ -14,3 +14,5 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
 
+[Logan Schmunck](https://github.com/lSchmunck) - Software development student, loves music, plays bass, keyboard, and vocals in a band, releases music solo as well, loves video games (risk of rain 2 is my fav), and loves concerts.
+
