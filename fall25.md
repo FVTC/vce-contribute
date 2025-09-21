@@ -14,3 +14,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
 
+[Garrett Kloiber](https://github.com/clonezittv) - Software Development Student, Keyboard and Mouse enthusiast, and caffeine addict.
