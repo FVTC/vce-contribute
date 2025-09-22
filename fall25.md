@@ -14,3 +14,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
 
+[Matthew Walton](https://github.com/whitewolfo64) - Software development student, Mechanic, Ammunition Sergeant, loves video games, my pets, and riding motorcycle.
