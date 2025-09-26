@@ -8,9 +8,10 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Instructors
 
-[Ryan Appel](https://github.com/rdappel) - Instructor, nerd, loves animals, and coffee.
+[[Ryan Appel](https://github.com/rdappel) - Instructor, nerd, loves animals, and coffee.]
 
 ## Students
+[[Bishal Baral](https://github.com/Bishal-Baral07) - Learner, nerd, loves animals, and coffee.]
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
 
