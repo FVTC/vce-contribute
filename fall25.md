@@ -13,4 +13,5 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 ## Students
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
+[Avyn Strauch](https://github.com/Avynjs) - Software Development student, I like posting up on sum nonchalant type activites and watching smackdvd.
 
