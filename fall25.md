@@ -14,3 +14,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
 
+- [Abdul Abbara](https://github.com/AbdulHAbbara) - I love gaming, 3D modeling, and reading comic/manga, can speak arab/eng/jp
