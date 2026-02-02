@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Michael Frascona](https://github.com/mgfrascona) - Web designer with artistic flair. I love drawing, video games (especially Mario and Minecraft!), cats, and D&D.
