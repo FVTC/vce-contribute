@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Alesha Barbeau](https://github.com/Hitto209) - Love listening to loud music, playing video games, and dancing with my dogs. 
