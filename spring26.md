@@ -13,3 +13,5 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Ida Whitney](https://github.com/Ids3000) - Lover of open-world video games!
+
