@@ -9,7 +9,7 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Instructors
 
-[Tony Vue](https://github.com/rdappel) - Tony Vue, pokemon collector and car enthusiast. 
+[Tony Vue](https://github.com/TonyV04) - Tony Vue, pokemon collector and car enthusiast. 
 
 ## Students
 
