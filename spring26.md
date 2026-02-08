@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Tony Zenz](https://github.com/TonyZenz) - Student, movie enjoyer, silly goose
