@@ -9,7 +9,7 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Instructors
 
-[Ryan Appel](https://github.com/rdappel) - Instructor, nerd, loves animals, and coffee.
+[Tony Vue](https://github.com/TonyV04) - Tony Vue, pokemon collector and car enthusiast. 
 
 ## Students
 
