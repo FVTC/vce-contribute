@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+1. [Nick Raasch](https://github.com/StarKqx) - Student
