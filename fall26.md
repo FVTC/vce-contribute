@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Derek Beekman](https://github.com/keredbeek) - Student, old guy, loves to bike ride and watch movies.
