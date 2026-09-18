@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Ethan Herrera](https://github.com/EmanIsDead) - Student, nerd, love foxes, and celsius energy drinks.
