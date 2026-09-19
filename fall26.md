@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Owen Schroth](https://github.com/OSchroth) - Student, Nerd, #Money (I'm a Banker), D&D, Love Programming and Robotics. 
