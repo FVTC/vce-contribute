@@ -12,4 +12,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 [Ryan Appel](https://github.com/rdappel) - Instructor, nerd, loves animals, and coffee.
 
 ## Students
-
+[wadej132](https://github.com/rdappel) - Student, nerd,  owns animals. loves coffee
