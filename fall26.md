@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Kevin Lor](https://github.com/juanthehorseemoji-sudo) - I am interested in art, gaming, and technology.
