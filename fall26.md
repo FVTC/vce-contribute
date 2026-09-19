@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Sangdow Maphixat](https://github.com/SDowow) - Web Design student, loves painting, and games.
