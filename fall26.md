@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Chance Ewing-McGrath](https://github.com/Chance0813) - Student, mountain climber, Movie watcher, space lover, and also coffee
