@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Alex Rettler] (https://github.com/AlexRettler) - student, musician, reader
