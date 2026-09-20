@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Lily Storma](https://github.com/LilyJStorma) - Student, loves reading, writing, and drawing.
