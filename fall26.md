@@ -13,3 +13,10 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Melissa Clark](https://github.com/melissaclark820914)
+
+### Loves:
+- cats
+- autumn
+- sweet treats
+
