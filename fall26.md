@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Issac Hipp](https://github/com/TheIssaChipp) - Love music and stories.
