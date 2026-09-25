@@ -9,7 +9,7 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
-[Carlos Medina](https://github.com/cmedina) - Student, parent, loves animals, loves sports, traveling with daughters and certainly a fan of coffee.
+[Carlos Medina](https://github.com/Frozencoldest87) - Student, parent, loves animals, loves sports, traveling with daughters and certainly a fan of coffee.
 
 ## Instructors
 
