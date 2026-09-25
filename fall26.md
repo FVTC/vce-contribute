@@ -7,9 +7,9 @@ This file is for students taking the class in Fall 2026.
 
 Add your name to the list below and link to your GitHub profile. Additionally, you can add a brief description of yourself or your interests if you like.
 
-## Instructors
-
-[Ryan Appel](https://github.com/rdappel) - Instructor, nerd, loves animals, and coffee.
-
 ## Students
+
+[Carlos Medina](https://github.com/Frozencoldest87) - Student, parent, loves animals, loves sports, traveling with daughters and certainly a fan of coffee.
+
+## Instructors
 
